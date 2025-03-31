@@ -31,7 +31,7 @@ A full-stack IT ticket management system built with **React**, **Node.js**, **Ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/IT-Support-Dashboard.git
+   git clone https://github.com/sppardesi75/it-support-dashboard.git
    ```
 
 2. Navigate to the server folder and install dependencies:
